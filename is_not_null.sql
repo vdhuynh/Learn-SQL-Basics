@@ -1,0 +1,3 @@
+SELECT * 
+FROM car
+WHERE price IS NOT NULL;
